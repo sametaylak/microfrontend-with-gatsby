@@ -1,0 +1,17 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "dashboard-team": "*",
+    "gatsby": "^2.15.16",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  }
+}
